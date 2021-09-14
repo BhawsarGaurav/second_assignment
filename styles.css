@@ -1,0 +1,170 @@
+
+main{
+    padding: 0PX 20PX;
+    background: rgb(236, 243, 242);
+}
+/* Header Section*/
+.background{
+    background-size: 100% 100%;
+    width: 100%;
+    height: 660px;  
+}
+.banner1{
+    background-image: url(../Ecommerce/media/banner1.png);
+}
+.banner2{
+    background-image: url(../Ecommerce/media/banner2.png);
+}
+.banner3{
+    background-image: url(../Ecommerce/media/banner3.png);
+}
+.link{
+    margin-right: 15%;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-weight: bold;
+}
+.nav-icon{
+    
+    list-style: none;
+    display: inline;
+}
+
+.head {
+    float: right;
+    text-align: left;
+    
+    padding-top:210px;
+    padding-right: 100px;
+    box-sizing: border-box;
+}
+
+.head h1{
+    font-size: 65px;
+    font-weight: bold;
+}
+.hr1{
+    border: 1px solid black;
+    width: 87px;
+    float: left;
+    margin-right: 100px;
+}
+.hr2{
+    
+    border: 1px solid black;
+    width: 165px;
+
+    margin-right: 600px;
+    
+}
+.banner-button{
+    margin-right: 600px ;
+}
+.clr{
+    clear: both;
+}
+/* button*/
+
+
+/* FEATURED COLLECTION*/
+.feature ul{
+    margin-top: 15px;
+    text-align: center;
+    list-style-type: none;
+
+}
+.feature ul li{
+    display: inline;
+    padding: 4px;
+}
+
+/* Products*/
+.surfboard{
+    background-color:white;
+    
+    box-sizing: border-box;
+}
+.surfboard-div{
+    background: white;
+}
+.surfboard-image{
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 100%;
+    height: 100%;
+}
+.surf{
+    width: 765px;
+    margin-left: -33px;
+    background-color: white;
+}
+.surf-circle{
+    font-size: 5px;
+    margin-bottom: 5px;
+}
+.surfboard ul li{
+    font-size: 10px;
+    color: yellow;
+    list-style-type: none;
+    display: inline;
+    
+}
+.surfboard h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40PX;
+}
+.size-btn{
+    margin-left:10px ;
+    border: solid 1px lightgray;
+}
+.days{
+    margin-top: 70px;
+    margin-right: 5px;
+    display: inline-block;
+    height: 85px;
+    width: 90px;
+    background: rgb(50, 152, 236);
+    
+}
+
+.product-scroll{
+    background: white;
+    height: 100%;
+}
+.product-scroll hr{
+    border: 2px solid lightgray;
+    opacity: 0.5;
+    width: 90%;
+
+}
+.ps-img{
+    height: 200px;
+    border: 3px solid lightgray;
+}
+
+.p-description{
+    padding-left: 0%;
+    text-align: left;
+}
+.p-description ul li{
+    color: yellow;
+    list-style-type: none;
+    display: inline;
+}
+
+/* Footer*/
+footer{
+    background-image: url(../Ecommerce/media/river-1589616_1920.jpg);
+    height: 100%;
+    width: 100%;
+
+}
+.footer-icon{
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 5px;
+    
+}
